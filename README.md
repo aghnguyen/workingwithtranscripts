@@ -19,3 +19,7 @@ Feel free to use it. Send me an email if it helps you!
 
 email anguy194@ucsc.edu 
  <p> subject line: [WORKING WITH TRANSCRIPTS] </p>
+ 
+ my website can be found here 
+ 
+ <p> https://allisongnguyen.wordpress.com/ </p>
